@@ -24,7 +24,7 @@ dependencies {
 
 publish {
     userOrg = 'alexeydanilov'
-    groupId = 'com.danikula'
+    groupId = 'com.danikula.zhjz'
     artifactId = 'videocache'
     publishVersion = '2.3.4'
     description = 'Cache support for android VideoView'
