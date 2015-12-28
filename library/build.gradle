@@ -28,5 +28,5 @@ publish {
     artifactId = 'videocache'
     publishVersion = '2.3.4'
     description = 'Cache support for android VideoView'
-    website = 'https://github.com/danikula/AndroidVideoCache'
+    website = 'https://github.com/z34771914/AndroidVideoCache'
 }
